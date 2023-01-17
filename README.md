@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 <!--
+My name is Walt Impellicceiri. I'm from Pittsburgh, PA, USA. I have been working with software since I was a teenager and I love to learn to teach.
+
+I'm currently an Instructor teaching full-stack software development primarily using Java, Spring Boot, PostgreSQL, and Vue.js, among a few other things.
+
+Blog posts...
+Bananagrams...
+LinkedIn, LeetCode
+Web3 presentation
+
 **wimpellicceiri/wimpellicceiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
